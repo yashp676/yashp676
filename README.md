@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi, I'm Yash
 
-<!--
-**yashp676/yashp676** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+QA Automation Engineer and Product Owner at VE3 Global, based in Maidenhead, UK.
 
-Here are some ideas to get you started:
+**What I work on**
+- Test automation frameworks in Java and Selenium
+- Enterprise data quality and identity resolution platforms
+- GOV.UK-aligned public sector data services
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Open source**
+- [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium) — multipart parsing fix in the test web server ([#18025](https://github.com/SeleniumHQ/selenium/pull/18025))
+
+**Certifications**
+CSPO · Microsoft AZ-900
