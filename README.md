@@ -11,7 +11,8 @@ QA Automation Engineer and Product Owner at VE3 Global, based in Maidenhead, UK.
 - [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium) 
 
 **Certifications**
-CSPO Product Owner· Microsoft AZ-900
+. CSPO Product Owner
+· Microsoft AZ-900
 
 
 https://www.linkedin.com/in/yash-pardeshi-579038212/
